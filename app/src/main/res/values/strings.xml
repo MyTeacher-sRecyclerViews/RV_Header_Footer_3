@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecuclerView_3</string>
+    <string name="this_is_header">This is header</string>
+    <string name="this_is_footer">This is footer</string>
+    <string name="this_first">This first name is not available</string>
+    <string name="this_last">This last name is not available</string>
+</resources>
